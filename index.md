@@ -1,61 +1,61 @@
 ### Welcome to TrainingCamp
 
-##CSE Courses Available 
+CSE Courses Available🔥
 
-Languages : -C,C++,Java,Python,Go,R
+✔️Languages : -C,C++,Java,Python,Go,R
 
-FrontEnd : React,Vue,Angular,(HTML,CSSand Javascript)
+✔️FrontEnd : React,Vue,Angular,(HTML,CSSand Javascript)
 
-FullStack :M.E.R.N,M.E.A.N,Django,SpringBoot
+✔️FullStack :M.E.R.N,M.E.A.N,Django,SpringBoot
 
-#EnginneringTution: 
+#️⃣EnginneringTution: 
 
-Data Structures and Algorithms
+✔️Data Structures and Algorithms
 
-Operating Systems
+✔️Operating Systems
 
-Automata Theory and Logic
+✔️Automata Theory and Logic
 
-Logic Design
+✔️Logic Design
 
--Available Projects:
+#️⃣Available Projects:
 
-Build An eccomerce site
+✔️Build An eccomerce site
 
-Build a browser game
+✔️Build a browser game
 
-Build a website blog,portfolio etc.,
+✔️Build a website blog,portfolio etc.,
 
-##E.C.E Courses Available 
+E.C.E Courses Available 🔥
 
-1.arudino
+✔️arudino
 
   -interfacing with motors,sensors etc.,  
 
-2.rasberrypi
+✔️rasberrypi
 
  -IOT projects
 
   -Home Automation
 
-#EnginneringTution: 
--Basic Electronics
+#️⃣EnginneringTution: 
+✔️Basic Electronics
 
--Microcontrollers
+✔️Microcontrollers
 
--Analog Electronic Ckts
+✔️Analog Electronic Ckts
 
--Logic Design
+✔️Logic Design
 
--Signals & Systems
+✔️Signals & Systems
 
--Microprocessors
+✔️Microprocessors
 
--Digital Communication
+✔️Digital Communication
 
--Digital Signal Processing
+✔️Digital Signal Processing
 
--VLSI
+✔️VLSI
 
 
 ### Support or Contact
