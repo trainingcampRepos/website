@@ -1,10 +1,31 @@
 ## Welcome to TrainingCamp
 
-CSE Courses Available 
+-CSE Courses Available 
+
 Languages : -C,C++,Java,Python,Go,R
+
 FrontEnd : React,Vue,Angular,(HTML,CSSand Javascript)
+
 FullStack :M.E.R.N,M.E.A.N,Django,SpringBoot
-EnginneringTution: 
+
+-EnginneringTution: 
+
+Data Structures and Algorithms
+
+Operating Systems
+
+Automata Theory and Logic
+
+Logic Design
+
+-Available Projects:
+
+Build An eccomerce site
+
+Build a browser game
+
+Build a website blog,portfolio etc.,
+
             
 
 Whenever you commit to this repository, GitHub Pages will run [Jekyll](https://jekyllrb.com/) to rebuild the pages in your site, from the content in your Markdown files.
