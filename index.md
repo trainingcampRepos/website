@@ -60,4 +60,4 @@ E.C.E Courses Available 🔥
 
 ### Support or Contact
 
-Select from  the above courses,your preferred timmings  and  contact (trainingcamp465@gmail.com) for more details . 
+Select from  the above courses,your preferred timings  and  contact (trainingcamp465@gmail.com) for more details . 
