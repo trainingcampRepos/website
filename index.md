@@ -1,6 +1,11 @@
-## Welcome to GitHub Pages
+## Welcome to TrainingCamp
 
-You can use the [editor on GitHub](https://github.com/trainingcampRepos/website/edit/gh-pages/index.md) to maintain and preview the content for your website in Markdown files.
+CSE Courses Available 
+Languages : -C,C++,Java,Python,Go,R
+FrontEnd : React,Vue,Angular,(HTML,CSSand Javascript)
+FullStack :M.E.R.N,M.E.A.N,Django,SpringBoot
+EnginneringTution: 
+            
 
 Whenever you commit to this repository, GitHub Pages will run [Jekyll](https://jekyllrb.com/) to rebuild the pages in your site, from the content in your Markdown files.
 
