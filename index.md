@@ -1,6 +1,6 @@
-## Welcome to TrainingCamp
+### Welcome to TrainingCamp
 
--CSE Courses Available 
+##CSE Courses Available 
 
 Languages : -C,C++,Java,Python,Go,R
 
@@ -8,7 +8,7 @@ FrontEnd : React,Vue,Angular,(HTML,CSSand Javascript)
 
 FullStack :M.E.R.N,M.E.A.N,Django,SpringBoot
 
--EnginneringTution: 
+#EnginneringTution: 
 
 Data Structures and Algorithms
 
@@ -26,38 +26,38 @@ Build a browser game
 
 Build a website blog,portfolio etc.,
 
--E.C.E Courses Available 
+##E.C.E Courses Available 
 
-arudino
+1.arudino
 
-  interfacing with motors,sensors etc.,  
+  -interfacing with motors,sensors etc.,  
 
-rasberrypi
+2.rasberrypi
 
-IOT projects
+ -IOT projects
 
-Home Automation
+  -Home Automation
 
--EnginneringTution: 
-Basic Electronics
+#EnginneringTution: 
+-Basic Electronics
 
-Microcontrollers
+-Microcontrollers
 
-Analog Electronic Ckts
+-Analog Electronic Ckts
 
-Logic Design
+-Logic Design
 
-Signals & Systems
+-Signals & Systems
 
-Microprocessors
+-Microprocessors
 
-Digital Communication
+-Digital Communication
 
-Digital Signal Processing
+-Digital Signal Processing
 
-VLSI
+-VLSI
 
 
 ### Support or Contact
 
-Select from  the above courses,your preferred timmings  and  [contact](trainingcamp465@gmail.com) for more details . 
+Select from  the above courses,your preferred timmings  and  contact (trainingcamp465@gmail.com) for more details . 
