@@ -26,38 +26,38 @@ Build a browser game
 
 Build a website blog,portfolio etc.,
 
-            
+-E.C.E Courses Available 
 
-Whenever you commit to this repository, GitHub Pages will run [Jekyll](https://jekyllrb.com/) to rebuild the pages in your site, from the content in your Markdown files.
+arudino
 
-### Markdown
+  interfacing with motors,sensors etc.,  
 
-Markdown is a lightweight and easy-to-use syntax for styling your writing. It includes conventions for
+rasberrypi
 
-```markdown
-Syntax highlighted code block
+IOT projects
 
-# Header 1
-## Header 2
-### Header 3
+Home Automation
 
-- Bulleted
-- List
+-EnginneringTution: 
+Basic Electronics
 
-1. Numbered
-2. List
+Microcontrollers
 
-**Bold** and _Italic_ and `Code` text
+Analog Electronic Ckts
 
-[Link](url) and ![Image](src)
-```
+Logic Design
 
-For more details see [GitHub Flavored Markdown](https://guides.github.com/features/mastering-markdown/).
+Signals & Systems
 
-### Jekyll Themes
+Microprocessors
 
-Your Pages site will use the layout and styles from the Jekyll theme you have selected in your [repository settings](https://github.com/trainingcampRepos/website/settings/pages). The name of this theme is saved in the Jekyll `_config.yml` configuration file.
+Digital Communication
+
+Digital Signal Processing
+
+VLSI
+
 
 ### Support or Contact
 
-Having trouble with Pages? Check out our [documentation](https://docs.github.com/categories/github-pages-basics/) or [contact support](https://support.github.com/contact) and we’ll help you sort it out.
+Select from  the above courses,your preferred timmings  and  [contact](trainingcamp465@gmail.com) for more details . 
